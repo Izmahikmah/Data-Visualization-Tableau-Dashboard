@@ -16,7 +16,7 @@ Proyek ini bertujuan untuk memvisualisasikan **persebaran kasus kekerasan di Pro
 🔗 **[Lihat di Tableau](https://public.tableau.com/app/profile/jasmeenmhrn/viz/trialnew_16672035663940/Dashboard)**  
 
 ## 📸 Cuplikan Dashboard  
-![Dashboard Preview](dashboard_screenshot.png)  
+![Dashboard Preview](1.png)  
 
 ## 🔍 Insight dari Visualisasi  
 - **Total korban kekerasan di Indonesia pada tahun 2020-2021 mencapai 48.491 kasus.**
